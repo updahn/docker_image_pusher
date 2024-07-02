@@ -1,1 +1,4 @@
 portainer/portainer-ce
+redis:5.0.9-alpine
+nacos/nacos-server:1.4.2
+dicoming/wkhtmltopdf-ws
