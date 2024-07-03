@@ -5,3 +5,4 @@ dicoming/wkhtmltopdf-ws
 python:3.9-slim
 openjdk:8
 ubuntu:18.04
+willfarrell/autoheal
