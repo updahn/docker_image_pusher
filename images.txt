@@ -7,3 +7,4 @@ openjdk:8
 ubuntu:18.04
 willfarrell/autoheal
 outlovecn/portainer-cn
+mysql:5.6
