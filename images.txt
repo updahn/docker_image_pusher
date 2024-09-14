@@ -11,3 +11,4 @@ mysql:5.6
 cloudflare/cloudflared
 python:3.9
 ubuntu:20.04
+ubuntu:focal
