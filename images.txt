@@ -9,3 +9,4 @@ willfarrell/autoheal
 outlovecn/portainer-cn
 mysql:5.6
 cloudflare/cloudflared
+python:3.9
