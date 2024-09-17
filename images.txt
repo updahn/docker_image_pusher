@@ -12,3 +12,4 @@ cloudflare/cloudflared
 python:3.9
 ubuntu:20.04
 ubuntu:focal
+ubuntu:22.04
