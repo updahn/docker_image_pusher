@@ -8,10 +8,6 @@ ubuntu:18.04
 willfarrell/autoheal
 outlovecn/portainer-cn
 mysql:5.6
-cloudflare/cloudflared
 python:3.9
-ubuntu:20.04
-ubuntu:focal
-ubuntu:22.04
 selenium/standalone-chrome
 m1k1o/neko:chromium
