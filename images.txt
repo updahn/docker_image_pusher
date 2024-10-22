@@ -8,4 +8,3 @@ outlovecn/portainer-cn
 mysql:5.6
 python:3.9
 jlesage/firefox
-ghcr.io/m1k1o/neko
