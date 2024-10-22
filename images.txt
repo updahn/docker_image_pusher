@@ -10,3 +10,4 @@ python:3.9
 selenium/standalone-firefox
 jlesage/firefox
 selenium/standalone-chrome-debug
+selenium/standalone-chrome
