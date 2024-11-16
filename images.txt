@@ -1,13 +1,10 @@
 redis:5.0.9-alpine
 nacos/nacos-server:1.4.2
+mysql:5.6
 python:3.9-slim
+python:3.9
 openjdk:8
-ubuntu:18.04
 willfarrell/autoheal
 outlovecn/portainer-cn
-mysql:5.6
-python:3.9
-selenium/standalone-firefox
-jlesage/firefox
-selenium/standalone-chrome-debug
-selenium/standalone-chrome
+Alpine 
+ubuntu:18.04
