@@ -6,5 +6,5 @@ python:3.9
 openjdk:8
 willfarrell/autoheal
 outlovecn/portainer-cn
-Alpine 
+alpine:latest
 ubuntu:18.04
