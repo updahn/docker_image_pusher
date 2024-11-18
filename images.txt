@@ -8,3 +8,5 @@ willfarrell/autoheal
 outlovecn/portainer-cn
 alpine:latest
 ubuntu:18.04
+dushixiang/guacd:latest
+dushixiang/next-terminal:latest
