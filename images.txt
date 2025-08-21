@@ -12,5 +12,4 @@ dushixiang/guacd:latest
 dushixiang/next-terminal:latest
 zxdong262/electerm-web
 mlikiowa/napcat-docker:base
-onlyoffice/documentserver:late
-186184848/documentserver:8.3.3
+guanyueyun/ooffice:8.2.0.1
